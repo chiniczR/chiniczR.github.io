@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49ca3ae9.css",
+    "main.js": "/static/js/main.888796d9.js",
+    "static/js/787.e6fe0fcf.chunk.js": "/static/js/787.e6fe0fcf.chunk.js",
+    "static/media/Rubik-VariableFont_wght.ttf": "/static/media/Rubik-VariableFont_wght.3a4acc0356c6ea73f2c3.ttf",
+    "static/media/perfil-trans.png": "/static/media/perfil-trans.2c23456a20dcc35ffa39.png",
+    "static/media/Fredoka-VariableFont_wdth,wght.ttf": "/static/media/Fredoka-VariableFont_wdth,wght.1cfa1639746e014c46fc.ttf",
+    "index.html": "/index.html",
+    "main.49ca3ae9.css.map": "/static/css/main.49ca3ae9.css.map",
+    "main.888796d9.js.map": "/static/js/main.888796d9.js.map",
+    "787.e6fe0fcf.chunk.js.map": "/static/js/787.e6fe0fcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49ca3ae9.css",
+    "static/js/main.888796d9.js"
+  ]
+}
