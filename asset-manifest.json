@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.49ca3ae9.css",
-    "main.js": "/static/js/main.888796d9.js",
+    "main.css": "/static/css/main.b89bc0e2.css",
+    "main.js": "/static/js/main.fdb1f138.js",
     "static/js/787.e6fe0fcf.chunk.js": "/static/js/787.e6fe0fcf.chunk.js",
     "static/media/Rubik-VariableFont_wght.ttf": "/static/media/Rubik-VariableFont_wght.3a4acc0356c6ea73f2c3.ttf",
-    "static/media/perfil-trans.png": "/static/media/perfil-trans.2c23456a20dcc35ffa39.png",
+    "static/media/NotoSansHebrew-VariableFont_wdth,wght.ttf": "/static/media/NotoSansHebrew-VariableFont_wdth,wght.5779a2a9ee240db686a0.ttf",
+    "static/media/NotoSerifHebrew-VariableFont_wdth,wght.ttf": "/static/media/NotoSerifHebrew-VariableFont_wdth,wght.121bba5c3f7748159f37.ttf",
     "static/media/Fredoka-VariableFont_wdth,wght.ttf": "/static/media/Fredoka-VariableFont_wdth,wght.1cfa1639746e014c46fc.ttf",
+    "static/media/perfil3.jpg": "/static/media/perfil3.1f2fc49254d1a19ee018.jpg",
     "index.html": "/index.html",
-    "main.49ca3ae9.css.map": "/static/css/main.49ca3ae9.css.map",
-    "main.888796d9.js.map": "/static/js/main.888796d9.js.map",
+    "main.b89bc0e2.css.map": "/static/css/main.b89bc0e2.css.map",
+    "main.fdb1f138.js.map": "/static/js/main.fdb1f138.js.map",
     "787.e6fe0fcf.chunk.js.map": "/static/js/787.e6fe0fcf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49ca3ae9.css",
-    "static/js/main.888796d9.js"
+    "static/css/main.b89bc0e2.css",
+    "static/js/main.fdb1f138.js"
   ]
 }
